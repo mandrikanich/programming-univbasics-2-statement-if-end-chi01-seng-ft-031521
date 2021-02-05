@@ -1,7 +1,7 @@
 # Write your solution here
-if true 
-  puts "This code runs!"
+run code inside = true 
+puts "Code before if...end"
+if run_code inside
+  puts "code inside"
 end 
-if false 
-  puts "This code does not run. You will not see this in IRB"
-end 
+puts "Code after if...end" 
